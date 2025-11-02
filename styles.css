@@ -1,1 +1,11 @@
-/*  your css code here. If applicable */
+/*  your css code here. If applicabl*/
+table{
+	background-color:yellow;
+	border: solid 1px black;
+}
+th,td{
+	border: solid 2px black;
+}
+h3{
+	text-align: ;
+}
